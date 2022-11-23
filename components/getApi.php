@@ -18,7 +18,7 @@
     <header>
         <a href="#" class="logo">API</a>
         <ul>
-            <li><a href="../index.php" class="active">Quay lại Home</a></li> 
+            <li><a href="../index.php" class="active">Quay lại Trang chủ</a></li> 
         </ul>
     </header>
     <section>
