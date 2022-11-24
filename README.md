@@ -12,4 +12,4 @@ Features:
   
 All for Dev-Ops and CI/CD research purpose
 
-Instance will be shut down and repository will be removed when we got scores.
+Instance will be shut down and repository will be removed when we get scores.
