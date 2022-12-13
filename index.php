@@ -15,7 +15,7 @@
 </head>
 <body>
     <header>
-        <a href="https://topdev.vn/blog/devops-la-gi/" class="logo" target="_blank">what's devops?</a>
+        <a href="https://viblo.asia/p/co-gi-moi-trong-laravel-90-RnB5pOaJlPG" class="logo" target="_blank">what's laravel v9?</a>
         <ul>
             <li><a href="index.php#footer" class="active">Members</a></li>
             <li><a href="https://github.com/TrHgTung/php_app_demo" target="_blank">GitHub</a></li>
@@ -29,9 +29,9 @@
             <img src="images/mountains_behind.png" alt="" id="mountains_behind">
             <h2 id="text">Welcome</h2>
             
-            <a href="components/cat.php" id="btn">to DevOps</a> 
+            <a href="components/cat.php" id="btn">to TTTD Shop</a> 
             <!-- con meo nhay -->
-            <img src="images/mountains_front.png" alt="" id="mountains_front">        
+            <img src="images/mountains_front.png" alt="" id="mountains_front">
 
         </section>
     <footer class="footer">
@@ -39,20 +39,18 @@
         <div class="grid footer__container">
             <ul>
                 <li>
-                    <h3>DevOps</h3>
+                    <h3>Công nghệ web</h3>
                     <ul class="foot-item-box">
-                        <li>Email: <a href="mailto:tungng14@gmail.com"><b>tungng14@gmail.com</b></a></li>
+                        <li>Email: <a href="mailto:4601104211@student.hcmue.edu.vn"><b>4601104211@student.hcmue.edu.vn</b></a></li>
                     </ul>
                 </li>
                 <li>
                     <h3>Contact Me: </h3>
                     <ul>
                         <li>Facebook: <a href="https://www.facebook.com/nguyentuanhung12345" target="_blank"> Hoàng Tùng</a></li> <br/>
-                        <li>Facebook: <a href="#" target="_blank"> Như Ý</a></li> <br/>
-                        <li>Facebook: <a href="#" target="_blank"> Ánh Tuyết</a></li> <br/>
-                        <li>Facebook: <a href="#" target="_blank"> Minh Phát</a></li> <br/>
-                        <li>Facebook: <a href="#" target="_blank"> Trọng Hậu</a></li> <br/>
-
+                        <li>Facebook: <a href="https://www.facebook.com/" target="_blank"> Trịnh Thành</a></li> <br/>
+                        <li>Facebook: <a href="https://www.facebook.com/" target="_blank"> Đức Toàn</a></li> <br/>
+                        <li>Facebook: <a href="https://www.facebook.com/" target="_blank"> Quốc Đạt</a></li> <br/>
                     </ul>
                 </li>
             </ul>
